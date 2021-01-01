@@ -20,4 +20,3 @@
 
 ## Reference
 #### 1. How I created a League of Legends High-Elo database using scrapy :https://medium.com/@_marcusft/how-i-created-a-league-of-legends-high-elo-database-using-scrapy-3becdee8f385
-#### 2. LOLPrediction :https://github.com/tongtzeho/LOLPrediction
