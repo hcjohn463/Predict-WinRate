@@ -6,7 +6,7 @@
 #### OPGG：https://op.gg/ranking/ladder/
 #### Server : ['br', 'jp', 'euw', 'oce', 'lan', 'tr', 'www', 'na', 'eune','las', 'ru']
 
-|Game version|Game type|Totally|Data Preprocessing|
+|Game version|Game type|Totally Games|Data Preprocessing|
 | ------- | ------------| ---------- | --------------- |
 |10.25|Ranked Solo|5008|Drop Remake Game|
 
